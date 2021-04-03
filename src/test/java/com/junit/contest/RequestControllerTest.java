@@ -10,6 +10,7 @@ public class RequestControllerTest {
 	@Test
 	public void testTest() {
 		logger.info("in Test Case");
+		logger.info("Pipeline Test Case");
 		Assertions.assertEquals(true, true);
 		logger.info("in Test Case Second For Test case ");
 	}
